@@ -1,0 +1,17 @@
+[
+  {
+    "id": "b094dbf2-2d27-4f7a-b455-47db03a7fc54",
+    "text": "Buy groceries",
+    "completed": false
+  },
+  {
+    "id": "c4eb892c-dc56-4f96-8dfc-d499dd3ea4f2",
+    "text": "Clean the house",
+    "completed": true
+  },
+  {
+    "id": "66c0212b-5297-4f6d-bb0f-cd1ac1f932d8",
+    "text": "Master TypeScript",
+    "completed": false
+  }
+]
